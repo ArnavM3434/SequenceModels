@@ -4,7 +4,7 @@ This repository contains assignments completed as part of the **Sequence Models*
 
 ---
 
-## 📘 RNNs & LSTMs
+##  RNNs & LSTMs
 
 - Implemented a vanilla RNN and LSTM from scratch using **NumPy**.
 - Built a **character-level language model** to generate dinosaur names.
@@ -12,20 +12,20 @@ This repository contains assignments completed as part of the **Sequence Models*
 
 ---
 
-## 💬 Word Embeddings
+##  Word Embeddings
 
 - Used **GloVe word embeddings** with an LSTM in **Keras** to build a model that maps sentences to emojis, capturing the **sentiment** of the input.
 
 ---
 
-## 🗓️ Pre- & Post-Attention LSTMs
+## 🗓 Pre- & Post-Attention LSTMs
 
 - Built a model that converts human-readable dates (e.g., `"Saturday, May 16th 2025"`) into machine-readable format (`"05-16-2025"`).
 - Architecture: **Bi-directional LSTM** (pre-attention) → **Attention Layer** → **Unidirectional LSTM** (post-attention), all in **Keras**.
 
 ---
 
-## 🔀 Transformer
+##  Transformer
 
 - Built a **Transformer model** from scratch in **Keras**.
 - Implemented core components:
