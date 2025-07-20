@@ -18,7 +18,7 @@ This repository contains assignments completed as part of the **Sequence Models*
 
 ---
 
-## 🗓 Pre- & Post-Attention LSTMs
+##  Pre- & Post-Attention LSTMs
 
 - Built a model that converts human-readable dates (e.g., `"Saturday, May 16th 2025"`) into machine-readable format (`"05-16-2025"`).
 - Architecture: **Bi-directional LSTM** (pre-attention) → **Attention Layer** → **Unidirectional LSTM** (post-attention), all in **Keras**.
